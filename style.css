@@ -1747,7 +1747,7 @@ textarea.form-input::-webkit-realizer {
 
   .contact-info :is(.contact-link) {
     white-space: nowrap;
-    overflow: hidden;
+    overflow: auto;
     text-overflow: ellipsis;
   }
 
